@@ -14,8 +14,13 @@
 .result{
 		background-color: white;
 		margin-top: 5px;
-		margin-left: 60px;
-		border: 2px solid gray;
-		width: 40%;
+		padding: 5px;
+		border: 2px solid #dadada;
+		width: 50%;
 		height: auto;
 		}
+.centered{
+	width: 80%;
+	margin-left:25%;
+	padding: 50px;
+}
